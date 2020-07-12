@@ -4,7 +4,7 @@
 
 ### LABS
 
-* Part 7 > Lesson 1 > 10: Model Selection -> [Grid Search]()
+* Part 7 > Lesson 1 > 10: Model Selection -> [Grid Search](https://github.com/EmekaEzumezu/machine-learning-nanodegree-foundations/tree/master/labs/Model-Selection)
 
 ### PROJECTS
 
