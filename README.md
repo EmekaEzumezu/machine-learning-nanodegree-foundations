@@ -8,5 +8,5 @@
 
 ### PROJECTS
 
-- [Predicting Boston Housing Prices]()
+- [Predicting Boston Housing Prices](https://github.com/EmekaEzumezu/machine-learning-nanodegree-foundations/tree/master/projects/boston_housing)
 
